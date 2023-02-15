@@ -1,0 +1,92 @@
+[
+  {
+    "id": "62a3b86b095c83604de867f3",
+    "isActive": true,
+    "age": 52,
+    "name": "Salas Rosales",
+    "gender": "male",
+    "email": "salasrosales@sonique.com",
+    "phone": "+1 (910) 513-2924"
+  },
+  {
+    "id": "62a3b86bb7c7ed933e72f316",
+    "isActive": false,
+    "age": 57,
+    "name": "Olson Huff",
+    "gender": "male",
+    "email": "olsonhuff@sonique.com",
+    "phone": "+1 (870) 448-2933"
+  },
+  {
+    "id": "62a3b86ba4b48189c6d8933e",
+    "isActive": false,
+    "age": 70,
+    "name": "Lynette Guy",
+    "gender": "female",
+    "email": "lynetteguy@sonique.com",
+    "phone": "+1 (864) 530-3341"
+  },
+  {
+    "id": "62a3b86b32b9e1f0f5db88f2",
+    "isActive": false,
+    "age": 33,
+    "name": "Frances Nixon",
+    "gender": "female",
+    "email": "francesnixon@sonique.com",
+    "phone": "+1 (865) 422-3085"
+  },
+  {
+    "id": "62a3b86b19e90f275164b809",
+    "isActive": true,
+    "age": 40,
+    "name": "Ava Brennan",
+    "gender": "female",
+    "email": "avabrennan@sonique.com",
+    "phone": "+1 (813) 472-2247"
+  },
+  {
+    "id": "62a3b86ba516315b9175ffcc",
+    "isActive": true,
+    "age": 77,
+    "name": "Paula Farmer",
+    "gender": "female",
+    "email": "paulafarmer@sonique.com",
+    "phone": "+1 (916) 457-3058"
+  },
+  {
+    "id": "62a3b86b54fff7b0b0cee4ea",
+    "isActive": false,
+    "age": 56,
+    "name": "Hyde Barrett",
+    "gender": "male",
+    "email": "hydebarrett@sonique.com",
+    "phone": "+1 (839) 478-3650"
+  },
+  {
+    "id": "62a3b86b5b6478759d078747",
+    "isActive": true,
+    "age": 74,
+    "name": "Aisha Hardy",
+    "gender": "female",
+    "email": "aishahardy@sonique.com",
+    "phone": "+1 (881) 499-2356"
+  },
+  {
+    "id": "62a3b86bebb1259f45906cab",
+    "isActive": false,
+    "age": 19,
+    "name": "Gretchen Munoz",
+    "gender": "female",
+    "email": "gretchenmunoz@sonique.com",
+    "phone": "+1 (812) 408-2858"
+  },
+  {
+    "id": "62a3b86b6b9fcff9e38cda74",
+    "isActive": true,
+    "age": 24,
+    "name": "Gina Chaney",
+    "gender": "female",
+    "email": "ginachaney@sonique.com",
+    "phone": "+1 (912) 491-3273"
+  }
+]

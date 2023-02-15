@@ -1,0 +1,302 @@
+[
+  {
+    "use_id": "62a3b86b095c83604de867f3",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86bb7c7ed933e72f316",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86ba4b48189c6d8933e",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86b32b9e1f0f5db88f2",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86b19e90f275164b809",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86ba516315b9175ffcc",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86b54fff7b0b0cee4ea",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86b5b6478759d078747",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86bebb1259f45906cab",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  },
+  {
+    "use_id": "62a3b86b6b9fcff9e38cda74",
+    "training": [
+      {
+        "name": "superiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "inferiores",
+        "repeticoes": 12,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      },
+      {
+        "name": "superiores",
+        "repeticoes": 8,
+        "serie": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "product": "Carne",
+    "price": "R$ 70,00",
+    "categorie": "bovinos"
+  },
+  {
+    "id": "3",
+    "product": "biscoito",
+    "price": "R$ 10,00",
+    "categorie": "doces"
+  },
+  {
+    "id": "4",
+    "product": "bolacha",
+    "price": "R$ 4,00",
+    "categorie": "doces"
+  },
+  {
+    "id": "5",
+    "product": "chocolate",
+    "price": "R$ 200,00",
+    "categorie": "doces"
+  },
+  {
+    "id": "6",
+    "product": "banana",
+    "price": "R$ 10,00",
+    "categorie": "frutas"
+  },
+  {
+    "id": "7",
+    "product": "barrinha",
+    "price": "R$ 14.50",
+    "categorie": "doces"
+  },
+  {
+    "id": "8",
+    "product": "supercoffee",
+    "price": "R$ 120.00",
+    "categorie": "cafe"
+  },
+  {
+    "id": "9",
+    "product": "Frango",
+    "price": "R$ 70,00",
+    "categorie": "aves"
+
+  },
+  {
+    "id": "10",
+    "product": "pasta de amendoin",
+    "price": "R$ 86.00",
+    "categorie": "doce"
+  },
+  {
+    "id": "11",
+    "product": "ovo",
+    "price": "R$ 24.00",
+    "categorie": "ovinos"
+  }
+]
